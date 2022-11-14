@@ -1,7 +1,7 @@
-##Đề tài: 
+Đề tài: 
 
-Nasa project: hiện thực website sử dụng Nodejs ReactJS
+  Nasa project: hiện thực website sử dụng Nodejs ReactJS
 
-#Sinh viên thực hiện: Trần Nguyễn Duy Lân- 20110515    
+Sinh viên thực hiện: Trần Nguyễn Duy Lân- 20110515    
 
-#GVHD: Huỳnh Xuân Phụng
+GVHD: Huỳnh Xuân Phụng
